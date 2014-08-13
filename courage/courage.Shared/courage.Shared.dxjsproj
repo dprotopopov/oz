@@ -33,6 +33,16 @@
     <DefaultLanguageXAP>ru</DefaultLanguageXAP>
     <AuthorKeyWgtPath />
     <DistributorKeyWgtPath />
+    <Links>
+      <LinkDescription>
+        <Project>7121f5d5-dadd-4594-b265-60bd008d0d03</Project>
+        <Path />
+      </LinkDescription>
+      <LinkDescription>
+        <Project>8d47b9c1-2fa7-4aaf-bd70-beeae6de2142</Project>
+        <Path>www</Path>
+      </LinkDescription>
+    </Links>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>

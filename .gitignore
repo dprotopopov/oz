@@ -1,6 +1,10 @@
 # Built application files
+*.xap
 *.apk
 *.ap_
 
 # Generated files
 bin/
+mobile/
+story_content/
+icons/

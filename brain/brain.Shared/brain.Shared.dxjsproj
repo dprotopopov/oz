@@ -33,6 +33,17 @@
     <DefaultLanguageXAP>ru</DefaultLanguageXAP>
     <AuthorKeyWgtPath />
     <DistributorKeyWgtPath />
+    <Links>
+      <LinkDescription>
+        <Project>fe33ab57-7818-429b-80de-b667201c1949</Project>
+        <Path />
+      </LinkDescription>
+      <LinkDescription>
+        <Project>e8b5ff17-3bce-45bf-8a39-536acf72ab8b</Project>
+        <Path>www</Path>
+      </LinkDescription>
+    </Links>
+    <ApkDexFilePackageName>app.id_c7215187f7a54da5a9ea20cd9f47680f</ApkDexFilePackageName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>

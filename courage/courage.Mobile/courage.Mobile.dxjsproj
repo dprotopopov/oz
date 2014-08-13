@@ -34,6 +34,12 @@
     <AuthorKeyWgtPath />
     <DistributorKeyWgtPath />
     <ApkDexFilePackageName>app.id_330e0e0367d84b3580f95e45cb48cba2</ApkDexFilePackageName>
+    <Links>
+      <LinkDescription xmlns="">
+        <Project>8d47b9c1-2fa7-4aaf-bd70-beeae6de2142</Project>
+        <Path>www</Path>
+      </LinkDescription>
+    </Links>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
